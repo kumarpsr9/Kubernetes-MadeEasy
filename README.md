@@ -4,10 +4,14 @@
 
 Kubernetes is a powerful container orchestration platform that allows developers to deploy and manage containerized applications at scale. However, managing Kubernetes resources can be complex and time-consuming, especially for teams that are new to the platform.
 
-#### Clone Repository 
+### Clone Repository 
 `$ git clone  git@github.com:kumarpsr9/Kubernetes-MadeEasy.git`
 
-#### Run Deployment
+### Prerequisite
+Install Minkube 
+
+
+### Run Deployment
 `kubectl apply -f .`
 
 #### Note: change **PATH** in **PersistentVolume.yml** file to your working directory
@@ -15,5 +19,6 @@ Kubernetes is a powerful container orchestration platform that allows developers
 path: "**<PATH>** /Kubernetes-MadeEasy/html"
 
 
-#### To Test Nginx Browse 
+### To Test Nginx Browse 
 `http://localhost:30145/`
+
