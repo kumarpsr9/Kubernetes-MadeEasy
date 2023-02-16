@@ -32,5 +32,5 @@ path: "**<PATH>** /Kubernetes-MadeEasy/html"
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1XIQDOp9FV3NSxLW1fvl7NAaZP4vN2SpP/view?usp=sharing)
+![Test Page](https://photos.app.goo.gl/2ybXsjpE1U3Bfzbv6)
 
