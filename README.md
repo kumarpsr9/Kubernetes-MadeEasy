@@ -30,7 +30,5 @@ path: "**<PATH>** /Kubernetes-MadeEasy/html"
 ### To Test Nginx Browse 
 `http://localhost:30145/`
 
-## Screenshots
 
-![Test Page](https://photos.app.goo.gl/2ybXsjpE1U3Bfzbv6)
 
