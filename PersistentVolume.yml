@@ -13,5 +13,5 @@ spec:
   persistentVolumeReclaimPolicy: Recycle
   storageClassName: local-storage
   hostPath:
-     path: "/Users/kumar/Projects/SimpleKubernetesDeployment/html"
+     path: "/Users/kumar/Projects/Kubernetes-MadeEasy/html"
 
