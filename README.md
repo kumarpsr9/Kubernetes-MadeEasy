@@ -1,2 +1,2 @@
-# Simple Kubernetes Deployment for Nginx With Persistent Volume
+# Kubernetes Deployment for Nginx With Persistent Volume
 kubernetesSampleDeployment
