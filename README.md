@@ -20,11 +20,14 @@ Install Minkube
 
 
 ### Run Deployment
-`kubectl apply -f .`
 
 #### Note: change **PATH** in **PersistentVolume.yml** file to your working directory
 
 path: "**<PATH>** /Kubernetes-MadeEasy/html"
+
+`kubectl apply -f .`
+
+
 
 
 ### To Test Nginx Browse 
